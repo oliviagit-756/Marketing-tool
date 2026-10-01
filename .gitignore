@@ -1,0 +1,8 @@
+.env
+*.csv
+*.zip
+*.joblib
+*.mp4
+build/
+__pycache__/
+.venv/
